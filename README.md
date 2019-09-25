@@ -1,4 +1,4 @@
-# Machine_learning
+# Machine Learning PCA and LDA Exploratory Analysis Of Financial Data
 This repo decides which features are helpful in predicting the target variable for time series data –serial correlation, momentum, technical analysis indicators (such as RSI), and signals from trend-following strategies (such as the moving average crossover). This has been referenced from De Prado's book on Machine Learning for Finance.
 
 Further it includes - 
