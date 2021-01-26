@@ -54,6 +54,7 @@ Kim Chuong Hoang
 ## Versioning
 
 Original version 25th September 2019
+v1 - 27th Jan 2021
 
 ## Authors
 
